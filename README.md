@@ -1,1 +1,3 @@
 "# sequielize" 
+"for learning"
+
